@@ -1,4 +1,4 @@
-# Pythons Lessons - Trening 10 FROGGER - how we use classes, lists,
+# Pythons Lessons - Trening 10 FROGGER - how we use classes, lists, basic game concepts
 # PARALLEL UNIVERSE CODERS
 # Adam Pałucki
 # XII 2020
